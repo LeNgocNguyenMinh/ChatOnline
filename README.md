@@ -8,4 +8,4 @@
 - Run `npm install` in the root directory including UUIDV4, Express, Socket.io, and PeerJS. if you have yarn pls run `yarn install` in the root directory
 - Run `npm start` in the root directory
 - Open `localhost:3030` in your browser
-kabumb, like a magic.
+- kabumb, like a magic.
